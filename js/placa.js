@@ -19,12 +19,12 @@ function placa() {
 
 function contandoPontos() {
   if (xBolinha < 13) {
-    placa1 += 1;
+    placa2 += 1;
     ponto.play()
   }
 
   if (xBolinha > 585) {
-    placa2 += 1
+    placa1 += 1
     ponto.play()
   }
 }
