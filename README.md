@@ -7,3 +7,7 @@ Para deixa o processo de criação mais prático foi usado a lib p5.js. que faci
 Caso queiram da uma olhada no jogo, só clicar aqui: https://lnkd.in/gWa8H6tB
 
 Projeto da Alura de jogos clássicos. 
+
+## Preview 
+
+![project preview](preview.gif)
